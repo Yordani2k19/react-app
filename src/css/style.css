@@ -1,0 +1,33 @@
+.componentCont {
+  display: flex;
+  justify-content: center;
+}
+.hr {
+  width: 200px;
+}
+.searchComp {
+  text-align: center;
+}
+
+.checkCont {
+  align-self: center;
+  margin-right: 10px;
+}
+
+.formCont {
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+}
+
+.addTodoComp {
+  display: flex;
+  align-self: center;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+.todo_button {
+  width: 100px;
+  align-self: center;
+}
